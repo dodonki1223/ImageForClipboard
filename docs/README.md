@@ -64,3 +64,8 @@ ImageForClipboardをコマンドラインから実行するためのコマンド
 #### 選択されている画像をコピー
 ImageForClipboard.exeのパス /ImageSize 25 /AutoClose 1 /Copy
 ※エクスプローラーで選択している画像を２５％の大きさで１秒間表示しクリップボードにコピーします。
+
+## 修正履歴
+
+### Ver.1.0.0
+・初回リリース
